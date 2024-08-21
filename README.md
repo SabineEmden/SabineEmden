@@ -8,6 +8,7 @@ I'm currently learning full-stack JavaScript with [The Odin Project](https://www
 
 - HTML & CSS
 - JavaScript
+- Astro
 - Git & GitHub
 - Visual Studio Code
 - Figma
