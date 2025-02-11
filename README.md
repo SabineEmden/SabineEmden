@@ -1,6 +1,8 @@
 ## Hi there! 👋 I'm Sabine.
 
-I'm an aspiring web developer and a former chemist. What I bring from chemistry to software development is a systematic approach to problem solving and the perseverance to not give up easily.
+**I'm an aspiring web developer and a former chemist.**
+
+What I bring from chemistry to software development is a systematic approach to problem solving and the perseverance to not give up easily.
 
 I'm currently learning full-stack JavaScript with [The Odin Project](https://www.theodinproject.com/) and [Frontend Mentor](https://www.frontendmentor.io/). As a side project, I'm building my personal website with [Astro](https://astro.build/).
 
