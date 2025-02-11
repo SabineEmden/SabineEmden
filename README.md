@@ -4,9 +4,9 @@
 
 What I bring from chemistry to software development is a systematic approach to problem solving and the perseverance to not give up easily.
 
-- 🌱 I'm currently learning full-stack JavaScript with [The Odin Project](https://www.theodinproject.com/).
-- 💪 I'm using [Frontend Mentor](https://www.frontendmentor.io/) to practice building websites in a realistic workflow.
-- 🔭 I'm building [my personal website](https://www.sabineemden.com/) with [Astro](https://astro.build/).
+- 🌱 **Currently learning:** full-stack JavaScript with [The Odin Project](https://www.theodinproject.com)
+- 💪 **Additional practice:** building websites in a realistic workflow with [Frontend Mentor](https://www.frontendmentor.io/)
+- 🔭 **Side project:** building [my personal website](https://www.sabineemden.com/) with [Astro](https://astro.build/)
   
 ### My technical skills 👩‍💻
 
