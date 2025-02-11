@@ -18,12 +18,6 @@ What I bring from chemistry to software development is a systematic approach to 
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-## Find Me Online 🌐
-
-- **Personal Website**: [www.sabineemden.com](https://www.sabineemden.com/)
-- **LinkedIn:** [in/sabineemden](https://www.linkedin.com/in/sabineemden)
-- **Mastodon:** [@sabineemden@social.tchncs.de](https://social.tchncs.de/@sabineemden)
-
 <!--
 **SabineEmden/SabineEmden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
