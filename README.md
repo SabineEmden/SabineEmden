@@ -2,7 +2,7 @@
 
 **I'm an aspiring web developer and a former chemist.**
 
-What I bring from chemistry to software development is a systematic approach to problem solving and the perseverance to not give up easily.
+What I bring from chemistry to software development is a systematic approach to problem solving and the grit to not give up easily.
 
 - 🌱 **Currently learning:** full-stack JavaScript with [The Odin Project](https://www.theodinproject.com)
 - 💪 **Additional practice:** building websites in a realistic workflow with [Frontend Mentor](https://www.frontendmentor.io/)
