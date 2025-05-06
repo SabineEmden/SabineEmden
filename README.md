@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Sabine.
 
-**I'm an aspiring web developer and a former chemist.**
+**I'm an aspiring web developer and who is trained as a chemist.**
 
 What I bring from chemistry to software development is a systematic approach to problem solving and the grit to not give up easily.
 
